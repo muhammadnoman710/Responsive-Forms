@@ -2,3 +2,38 @@ h5 {
     text-align: left;
     opacity: 0.7;
 }
+div.col-sm-4 {
+    height: 86px;
+}
+button {
+    background-color: black;
+    justify-content: center;
+    align-items: end;
+    font-size: medium;
+    color: white;
+    border: 0px;
+    border-radius: 30px;
+    width: 180px;
+    height: 40px;
+}
+button:hover {
+    background-color: green;
+}
+h6 {
+    text-align: left;
+    opacity: 0.9;
+}
+input.calculations {
+    border: 0px;
+    background-color: rgb(233, 237, 242);
+    width: 100%;
+}
+div.col-sm-1 {
+    height: 90%;
+    width: 5%;
+    padding-top:20px;
+}
+.heading-4 {
+    font-size: large;
+    text-align: center;
+}
