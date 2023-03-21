@@ -1,0 +1,10 @@
+div.col-sm-10 {
+    width: 200px;
+}
+
+button.cancel {
+    border: 2px;
+    color: skyblue;
+    background-color: white;
+    border-style: solid;
+}

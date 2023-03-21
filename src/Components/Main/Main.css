@@ -27,6 +27,7 @@ input.calculations {
     border: 0px;
     background-color: rgb(233, 237, 242);
     width: 100%;
+    outline: none;
 }
 div.col-sm-1 {
     height: 90%;
