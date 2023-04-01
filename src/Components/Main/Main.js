@@ -70,6 +70,16 @@ function Main() {
       </Col>
     </Row>
     <hr></hr>
+    <div className='SearchBar'>
+      <nbsp>Search </nbsp>
+    <input type="text"/>
+    </div>
+    {/* <Form className="SearchBar">
+            <Form.Control
+              type="search"
+              className="SearchBar"
+            /> 
+    </Form>*/}
     </Container>
   )
 }
